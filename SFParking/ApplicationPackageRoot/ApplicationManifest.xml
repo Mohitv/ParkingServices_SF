@@ -15,7 +15,7 @@
     <ConfigOverrides />
     <Policies>
       <ContainerHostPolicies CodePackageRef="Code">
-        <RepositoryCredentials AccountName="alpha27" Password="99@Azure" PasswordEncrypted="false"/>
+        <RepositoryCredentials AccountName="alpha27" Password="99@Azure3" PasswordEncrypted="false"/>
         <PortBinding ContainerPort="8080" EndpointRef="ParkingServiceTypeEndpoint"/>
       </ContainerHostPolicies>
     </Policies>
